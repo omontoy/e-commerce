@@ -9,7 +9,7 @@
 
 .carousel-inner {
 	margin-bottom: 30px;
-	height: 510px;
+	height: 500px;
 }
 
 
@@ -17,3 +17,7 @@
       width: 100%;
       margin: auto;
   }
+
+ #box {
+ 	height: 313px;
+ }
