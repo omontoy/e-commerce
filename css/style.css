@@ -3,21 +3,19 @@
 	margin-bottom: 30px;
 }
 
-.carousel-caption {
-	margin-bottom: 70px;
+#new-search {
+	margin-bottom: 25px;
 }
 
-.carousel-inner {
+#carrusel {
+	margin:auto;
 	margin-bottom: 30px;
-	height: 500px;
 }
 
+#box img {
+	height: 200px;
+}
 
-.carousel-inner > .item > img {
-      width: 100%;
-      margin: auto;
-  }
-
- #box {
- 	height: 313px;
- }
+#descripciones {
+	padding: 10px;
+}
